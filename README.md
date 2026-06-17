@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## Prerequisites
@@ -47,3 +48,6 @@ npm start
 
 
 
+=======
+# ostad-module3-cicd
+>>>>>>> e93e785fa0bc60e6438a093b9fae92f3f74b3773
